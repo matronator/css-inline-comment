@@ -2,7 +2,7 @@
 
 ## 1.0.3
 
-Created a GitHub repository
+- Created a GitHub repository
 
 ## [1.0.2]
 
