@@ -10,18 +10,27 @@ Trigger inline comments with double slash in CSS and related languages (SCSS, LE
 
 ## Requirements
 
-None
+VSCode, duh
 
 ## Extension Settings
 
+Nope
+
 ## Known Issues
+
+Nah
 
 ## Release Notes
 
-### 1.0.2
+### 1.0.3
 
-Added icon, some edits in package.json
+Created a GitHub repository
 
-### 1.0.0
+### [1.0.2]
 
-Initial release
+- Added icon
+- Some edits in package.json
+
+### [1.0.0]
+
+- Initial release

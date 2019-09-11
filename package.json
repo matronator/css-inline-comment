@@ -1,8 +1,8 @@
 {
     "name": "css-inline-comment",
     "displayName": "CSS double-slash inline comments",
-    "description": "Make inline comments in CSS simply by double slash \"//\"",
-    "version": "1.0.2",
+    "description": "Make inline comments in CSS files simply with double slash \"//\"",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.28.0"
     },
