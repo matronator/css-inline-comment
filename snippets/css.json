@@ -1,0 +1,8 @@
+{
+  "CSS Inline comment": {
+		"scope": "css, scss, less, sass",
+		"prefix": "\/\/",
+		"body": "\/* $0 *\/",
+		"description": "Insert inline CSS comment"
+	}
+}

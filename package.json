@@ -1,0 +1,39 @@
+{
+    "name": "css-inline-comment",
+    "displayName": "CSS double-slash inline comments",
+    "description": "Make inline comments in CSS simply by double slash \"//\"",
+    "version": "1.0.2",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/css.json"
+            }
+        ]
+    },
+    "publisher": "Matronator",
+    "author": {
+        "name": "Matronator",
+        "email": "info@matronator.com",
+        "url": "https://matronator.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "comments",
+        "inline",
+        "snippet",
+        "vscode"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#155CA7",
+        "theme": "dark"
+    }
+}
