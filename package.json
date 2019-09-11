@@ -23,6 +23,7 @@
         "email": "info@matronator.com",
         "url": "https://matronator.com"
     },
+    "repository": "https://github.com/matronator/css-inline-comment",
     "license": "MIT",
     "keywords": [
         "css",
